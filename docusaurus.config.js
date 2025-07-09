@@ -124,7 +124,7 @@ const config = {
             items: [
               {
                 label: 'Lie-downCraft',
-                href: 'http://47.122.27.73/',
+                href: 'http://lie-downcraft.cn/',
               },
               {
                 label: 'LittleSkin',
